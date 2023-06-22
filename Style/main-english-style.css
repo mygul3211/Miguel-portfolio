@@ -120,7 +120,7 @@ html {
     height: 250px;
     width: 250px;
     border-radius: 100%;
-    background-image: url(/Pictures/b06e11df-fb3e-4ad8-a931-cff4d3a7217d.jpg);
+    background-image: url(../Pictures/b06e11df-fb3e-4ad8-a931-cff4d3a7217d.jpg);
     background-size: cover;
     transition: all .5s ease;
     filter:contrast(1);
